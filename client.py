@@ -2,8 +2,8 @@ from socket import socket, AF_INET, SOCK_DGRAM
 import sys
 
 """"""""""""""""""""""""""
-# Dorin Keshales 313298424
-# Almog Lev 307900183
+    # Dorin Keshales
+      # Almog Lev
 """"""""""""""""""""""""""
 
 # Receive arguments of IP and port of the server from command line.
